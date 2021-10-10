@@ -64,7 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # speedrunCrudLaravel
 
-[Link Video stream]("https://web.facebook.com/100001615783879/videos/195029456030755/)
+[Link Video stream](https://web.facebook.com/100001615783879/videos/195029456030755/)
 
 
 # Instalation
@@ -75,7 +75,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 - server jalan di localhost:8000/api/...
 
 # postman collection
-[https://www.getpostman.com/collections/7e032ce4e61232dffeab]("https://www.getpostman.com/collections/7e032ce4e61232dffeab")
+[https://www.getpostman.com/collections/7e032ce4e61232dffeab](https://www.getpostman.com/collections/7e032ce4e61232dffeab)
 
 # postman environtment
 
